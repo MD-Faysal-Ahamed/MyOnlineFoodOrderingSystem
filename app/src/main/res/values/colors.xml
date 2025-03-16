@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#E74C3C</color>
+    <color name="primaryDarkColor">#C0392B</color>
+    <color name="accentColor">#F39C12</color>
+
+    <!-- Background and Text Colors -->
+    <color name="backgroundColor">#2C3E50</color>  <!-- Dark blue-gray background -->
+    <color name="cardBackgroundColor">#34495E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Button Colors -->
+    <color name="buttonColor">#3498DB</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#ECF0F1</color>
+    <color name="textSecondary">#BDC3C7</color>
 </resources>
